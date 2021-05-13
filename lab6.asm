@@ -8,7 +8,7 @@ DATASEG
 
 text db "Group 3, Sachko, Sachko, Horduz$"
 oldint dw 0, 0
-
+ 
 CODESEG
 ;---Процедура - обробник переривання--------------------------------------
 PROC Interuption
